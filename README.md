@@ -1,8 +1,8 @@
 # learngit
 Learn GIT 
 
-git add fileName 将修改放入暂存区
-git add . 
+git add fileName 将修改放入暂存区\
+git add . \
 git commit -m “备注” 提交暂存区的修改到分支
 git log 查看提交历史记录
 git log —pretty=oneline 查看提交历史记录显示在一行
